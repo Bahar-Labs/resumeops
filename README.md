@@ -70,6 +70,10 @@ The prompt is domain-configured for GRC / compliance / privacy / AI governance, 
 - **Fabricate experience**: The prompt explicitly prohibits inventing experience, inflating scope, or claiming skills you don't have. It reframes and emphasizes what's real.
 - **Replace judgment**: The gap analysis tells you where you're strong and where you're not. You decide whether to apply, how to address gaps, and when to walk away.
 
+## Contributing
+
+This is a template repo, not an actively maintained project. Fork it, customize it, make it yours. Issues and pull requests won't be monitored or merged. If you build something cool with it, I'd love to hear about it -- find me on [LinkedIn](https://linkedin.com/in/deana-d-fuller-jd).
+
 ## License
 
 MIT. Use it however you want.

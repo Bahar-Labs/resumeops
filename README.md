@@ -1,6 +1,6 @@
-# Job Search Toolkit
+# ResumeOps
 
-A systems-based job search workflow using AI-assisted resume tailoring, structured analysis, and repeatable processes. The methodology works for any work domain.
+A systems-based job search workflow using AI-assisted resume tailoring, structured analysis, and repeatable processes. Built for experienced professionals targeting $100K+ roles in GRC, compliance, privacy, AI governance, and adjacent fields -- but the methodology works for any domain.
 
 ## What's in Here
 
@@ -69,10 +69,6 @@ The prompt is domain-configured for GRC / compliance / privacy / AI governance, 
 - **Auto-apply**: This is a strategy and tailoring toolkit, not a mass-application bot. Every resume is different because every JD is different.
 - **Fabricate experience**: The prompt explicitly prohibits inventing experience, inflating scope, or claiming skills you don't have. It reframes and emphasizes what's real.
 - **Replace judgment**: The gap analysis tells you where you're strong and where you're not. You decide whether to apply, how to address gaps, and when to walk away.
-
-## Contributing
-
-This is a template repo, not an actively maintained project. Fork it, customize it, make it yours. Issues and pull requests won't be monitored or merged. If you build something cool with it, I'd love to hear about it -- find me on [LinkedIn](https://linkedin.com/in/deana-d-fuller-jd).
 
 ## License
 
